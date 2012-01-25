@@ -1,0 +1,11 @@
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\obj\Debug\ResolveAssemblyReference.cache
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\AutoFacExample.dll
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\AutoFacExample.pdb
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\Autofac.Configuration.dll
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\Autofac.dll
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\Autofac.Integration.Mvc.dll
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\EntityFramework.dll
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\Autofac.xml
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\bin\EntityFramework.xml
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\obj\Debug\AutoFacExample.dll
+c:\C#\AutoFacExample\AutoFacExample\AutoFacExample\obj\Debug\AutoFacExample.pdb
